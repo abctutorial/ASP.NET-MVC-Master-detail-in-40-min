@@ -1,0 +1,20 @@
+﻿@if (Session["AdminLogin"].ToString() != "")
+{
+
+
+
+
+<ul class="nav navbar-nav navbar-right">
+    <li style="color:white">
+        <a class="font-weight-bold">Welcome! @Session["AdminName"]</a>
+    </li>
+
+    <li><a href="@Url.Action("AdminLogOut", "AdminPanel")">Sign out</a></li>
+</ul>
+
+}
+
+else
+{
+
+}

@@ -1,0 +1,164 @@
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\ApplicationInsights.config
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\csc.exe
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\System.Collections.Immutable.dll
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\System.Reflection.Metadata.dll
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\vbc.exe
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\VBCSCompiler.exe
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\VBCSCompiler.exe.config
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\MasterDetailsDemo.dll.config
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\MasterDetailsDemo.dll
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\MasterDetailsDemo.pdb
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\Antlr3.Runtime.dll
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\EntityFramework.dll
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\EntityFramework.SqlServer.dll
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.AI.DependencyCollector.dll
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.AI.Web.dll
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.AI.WindowsServer.dll
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.ApplicationInsights.dll
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.Owin.dll
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.Owin.Security.dll
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.Owin.Security.Google.dll
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.Web.Infrastructure.dll
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\Newtonsoft.Json.dll
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\Owin.dll
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\System.Web.Helpers.dll
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\System.Web.Mvc.dll
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\System.Web.Optimization.dll
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\System.Web.Razor.dll
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\System.Web.WebPages.Deployment.dll
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\System.Web.WebPages.dll
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\System.Web.WebPages.Razor.dll
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\WebGrease.dll
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.AI.DependencyCollector.xml
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.AI.Web.xml
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.AI.WindowsServer.xml
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.ApplicationInsights.xml
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\System.Web.Helpers.xml
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\System.Web.Mvc.xml
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\System.Web.Optimization.xml
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\System.Web.Razor.xml
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\System.Web.WebPages.xml
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\System.Web.WebPages.Deployment.xml
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\System.Web.WebPages.Razor.xml
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\Antlr3.Runtime.pdb
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\Newtonsoft.Json.xml
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\EntityFramework.xml
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\EntityFramework.SqlServer.xml
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.Owin.xml
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.Owin.Security.xml
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.Owin.Security.Google.xml
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\obj\Debug\MasterDetailsDemo.dll
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\obj\Debug\MasterDetailsDemo.pdb
+D:\Freelancer Work From now\Project For Job\MasterDetailsDemo\MasterDetailsDemo\obj\Debug\MasterDetailsDemo.csprojResolveAssemblyReference.cache
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\ApplicationInsights.config
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\csc.exe
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\System.Collections.Immutable.dll
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\System.Reflection.Metadata.dll
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\vbc.exe
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\VBCSCompiler.exe
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\roslyn\VBCSCompiler.exe.config
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\MasterDetailsDemo.dll.config
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\MasterDetailsDemo.dll
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\MasterDetailsDemo.pdb
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\Antlr3.Runtime.dll
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\EntityFramework.dll
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\EntityFramework.SqlServer.dll
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.AI.DependencyCollector.dll
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.AI.Web.dll
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.AI.WindowsServer.dll
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.ApplicationInsights.dll
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.Owin.dll
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.Owin.Security.dll
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.Owin.Security.Google.dll
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.Web.Infrastructure.dll
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\Newtonsoft.Json.dll
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\Owin.dll
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\System.Web.Helpers.dll
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\System.Web.Mvc.dll
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\System.Web.Optimization.dll
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\System.Web.Razor.dll
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\System.Web.WebPages.Deployment.dll
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\System.Web.WebPages.dll
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\System.Web.WebPages.Razor.dll
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\WebGrease.dll
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.AI.DependencyCollector.xml
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.AI.Web.xml
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.AI.WindowsServer.xml
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.ApplicationInsights.xml
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\System.Web.Helpers.xml
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\System.Web.Mvc.xml
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\System.Web.Optimization.xml
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\System.Web.Razor.xml
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\System.Web.WebPages.xml
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\System.Web.WebPages.Deployment.xml
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\System.Web.WebPages.Razor.xml
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\Antlr3.Runtime.pdb
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\Newtonsoft.Json.xml
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\EntityFramework.xml
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\EntityFramework.SqlServer.xml
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.Owin.xml
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.Owin.Security.xml
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.Owin.Security.Google.xml
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\obj\Debug\MasterDetailsDemo.csprojResolveAssemblyReference.cache
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\obj\Debug\MasterDetailsDemo.dll
+D:\Freelancer Work From now\Tutorial For Make Video\MasterDetailsDemo\MasterDetailsDemo\obj\Debug\MasterDetailsDemo.pdb

@@ -1,0 +1,122 @@
+﻿@model MasterDetailsDemo.Models.AdminUser
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Login</title>
+    <link href="~/Content/Adminp.css" rel="stylesheet" />
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+</head>
+<body>
+    <div class="container register">
+        <div class="row">
+            <div class="col-md-3 register-left">
+                <img src="https://image.ibb.co/n7oTvU/logo_white.png" alt="" />
+                <h3>Welcome  To</h3>
+                <a href="../Orders/Index"><h1 style="color:white; font-weight:bold">99panda.com</h1></a>
+                <p>You are 30 seconds away from earning your own money!</p>
+
+            </div>
+            <div class="col-md-9 register-right">
+
+                <div class="tab-content" id="myTabContent">
+                    <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
+                        <h3 class="register-heading">Login as a Admin</h3>
+                        <div class="row register-form">
+                            <div class="col-md-6">
+                                @using (Html.BeginForm())
+                                {
+                                    @Html.AntiForgeryToken()
+
+                                    <div class="form-horizontal">
+
+                                        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+
+                                        <div class="form-group">
+                                            @Html.LabelFor(model => model.UserName, htmlAttributes: new { @class = "control-label col-md-6" })
+                                            <div class="col-md-12">
+                                                @Html.EditorFor(model => model.UserName, new { htmlAttributes = new { @class = "form-control", required = "required" } })
+                                                @Html.ValidationMessageFor(model => model.UserName, "", new { @class = "text-danger" })
+
+                                            </div>
+                                        </div>
+
+                                        <div class="form-group">
+                                            @Html.LabelFor(model => model.Password, htmlAttributes: new { @class = "control-label col-md-2" })
+                                            <div class="col-md-12">
+                                                @Html.EditorFor(model => model.Password, new { htmlAttributes = new { @class = "form-control", required = "required" } })
+                                                @Html.ValidationMessageFor(model => model.Password, "", new { @class = "text-danger" })
+
+                                            </div>
+                                        </div>
+                                     
+                                      
+
+
+
+
+                                        <div class="form-group">
+                                            <div class="col-md-offset-2 col-md-12">
+                                                <input type="submit" value="Log In" class="btn btn-default" />
+                                            </div>
+                                        </div>
+                                    </div>
+                                }
+                                @if (ViewBag.Message != "")
+            {
+                                    <div class="alert-danger" style="font-size:18px;text-align:center">@ViewBag.Message</div>
+                                }
+                                @*<div>
+                                        @Html.ActionLink("Create Account", "UserSignUp", "UserRegistration")
+                                        <div style="float:right"> @Html.ActionLink("Forgoten Password?", "ForgotPassword", "UserRegistration")</div>
+                                    </div>*@
+
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
+<script>
+
+    $(document).ready(function () {
+        $flag = 1;
+        $(".form-group").focusout(function () {
+            if ($(this).val() == '') {
+
+                $(this).closest(".form-group").addClass("has-error");
+                $('#submit').attr('disabled', true);
+                //$("#error_name").text("* You have to enter your first name!");
+            }
+            else {
+                $(this).$(".form-group").removeClass("has-error");
+                $('#submit').attr('disabled', false);
+                $("#error_name").text("");
+
+            }
+        });
+    });
+    //$(document).ready(function () {
+    //$(".form-group").removeClass("has-error");
+    //for (var i = 0; i < curInputs.length; i++) {
+    //    if (!curInputs[i].validity.valid) {
+    //        isValid = false;
+    //        $(curInputs[i]).closest(".form-group").addClass("has-error");
+    //    }
+    //}
+    //});
+</script>
+
